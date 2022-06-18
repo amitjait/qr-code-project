@@ -1,0 +1,25 @@
+body{
+    background-color: #D5E1EF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    background-color: white;
+    width: 20%;
+    margin: 40px auto;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+img{
+border-radius: 15px;
+width: 100%;
+}
+#head{
+    font-size: 26px;
+    font-weight: bold;
+}
+#para{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-size: large;
+}
